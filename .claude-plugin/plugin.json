@@ -1,0 +1,20 @@
+{
+  "name": "property-management-operator",
+  "version": "1.0.0",
+  "description": "Property management workflow support for resident requests, maintenance triage, vendors, inspections, renewals, delinquencies, and operating reviews.",
+  "author": {
+    "name": "Revuity Systems",
+    "email": "info@revuitysystems.com",
+    "url": "https://revuitysystems.com"
+  },
+  "homepage": "https://revuitysystems.com",
+  "license": "MIT",
+  "keywords": [
+    "property-management",
+    "real-estate",
+    "maintenance",
+    "operations",
+    "revuity"
+  ],
+  "repository": "https://github.com/revuitysystems/revuity-property-management-operator"
+}
