@@ -16,5 +16,6 @@
     "operations",
     "revuity"
   ],
-  "repository": "https://github.com/revuitysystems/revuity-property-management-operator"
+  "repository": "https://github.com/revuitysystems/revuity-property-management-operator",
+  "icon": "./assets/icon.png"
 }
