@@ -2,7 +2,7 @@
 
 **A free Claude workflow plugin by [Revuity Systems](https://revuitysystems.com).**
 
-<img src="assets/icon-256.png" alt="Property Management Operator plugin icon" width="128" height="128">
+![Property Management Operator plugin icon](assets/icon-128.png)
 
 A free Claude plugin for recurring property-management coordination across resident requests, maintenance, vendors, inspections, lease events, delinquencies, and portfolio review. It helps property teams organize work, prepare communications, track dependencies, and surface exceptions without replacing legal, financial, or management authority.
 
@@ -13,7 +13,7 @@ A free Claude plugin for recurring property-management coordination across resid
 
 ## Plugin icon
 
-The icon is stored at `assets/icon.png`, with 512, 256, and 128 pixel versions alongside it. The manifest references it with the `icon` field, which Anthropic's directory reads for the plugin listing and Claude Code ignores at load time.
+The plugin icon ships in the assets folder in 512, 256, and 128 pixel versions. The manifest references it with the icon field, which Anthropic's directory reads for the plugin listing and Claude Code ignores at load time.
 
 ## Good for
 

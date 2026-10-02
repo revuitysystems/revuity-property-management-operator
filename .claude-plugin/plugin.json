@@ -1,5 +1,6 @@
 {
   "name": "property-management-operator",
+  "displayName": "Property Management Operator",
   "version": "1.0.0",
   "description": "Property management workflow support for resident requests, maintenance triage, vendors, inspections, renewals, delinquencies, and operating reviews.",
   "author": {
